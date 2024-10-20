@@ -1,0 +1,4 @@
+python==3.12.3
+ujson==5.0.0 or later
+matplotlib==3.9.1
+Arduino IDE==2.3.2
